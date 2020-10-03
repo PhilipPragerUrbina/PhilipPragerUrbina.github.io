@@ -174,27 +174,10 @@ ul.topnav li.right {float: right;}
   text-align: center;
   
 }
-.container {
-  position: relative;
-  width: 100%;
-  max-width: 1000px;
-  margin: auto;
-}
-
-/* Make the image to responsive */
-.image {
-  display: block;
-  width: 100%;
-  height: auto;
-  
-}
-
-/* The overlay effect - lays on top of the container and over the image */
-.overlay {
+.overla {
   position: absolute;
   
-  background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  
   color: #f1f1f1;
   
   transition: .5s ease;
@@ -202,16 +185,20 @@ ul.topnav li.right {float: right;}
   color: white;
   font-size: 20px;
   top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
+  
+  padding: 20px;
   height: 100%;
   width: 100%;
   text-align: center;
   
 }
 
+
 /* When you mouse over the container, fade in the overlay title */
 .container:hover .overlay {
+  opacity: 1;
+}
+/* When you mouse over the container, fade in the overlay title */
+.container:hover .overla {
   opacity: 1;
 }
