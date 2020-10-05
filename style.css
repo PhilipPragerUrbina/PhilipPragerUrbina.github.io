@@ -22,7 +22,7 @@ ul.topnav li a {
 
 ul.topnav li a:hover:not(.active) {background-color: #111;}
 
-ul.topnav li a.active {background-color: #2443c4;}
+ul.topnav li a.active {background-color: #0c1b33ff;}
 
 ul.topnav li.right {float: right;}
 
@@ -217,7 +217,7 @@ ul.topnav li.right {float: right;}
   cursor: pointer;
 }
 .button {
-  background-color: #2443c4;/* Green */
+  background-color: #0c1b33ff;/* Green */
   border: none;
   color: white;
   padding: 15px 32px;
@@ -229,7 +229,7 @@ ul.topnav li.right {float: right;}
   width:100%;
 }
 .button:hover {
-  background-color: #ddd; /* Green */
+  background-color: #868784ff; /* Green */
   color: white;
   
 }
