@@ -18,6 +18,7 @@ ul.topnav li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  border-radius: 25px;
 }
 
 ul.topnav li a:hover:not(.active) {background-color: #868784ff;}
@@ -37,12 +38,14 @@ ul.topnav li.right {float: right;}
   max-width: 1000px;
   position: relative;
   margin: auto;
+  
 }
 
 /* Hide the images by default */
 .mySlides {
   
   display: none;
+  
   
 }
 
@@ -154,6 +157,7 @@ ul.topnav li.right {float: right;}
   display: block;
   width: 100%;
   height: auto;
+  border-radius: 25px;
   
 }
 
@@ -227,6 +231,7 @@ ul.topnav li.right {float: right;}
   display: inline-block;
   font-size: 16px;
   width:100%;
+  border-radius: 25px;
 }
 .button:hover {
   background-color: #868784ff; /* Green */
@@ -238,12 +243,13 @@ body {
 }
 .under{
   color: #FFFFFF;
+  font: 20px Arial, sans-serif;
 
 
 }
 .underr{
   color: #FFFFFF;
-#
+ 
 #Pallete:
 #--falu-red: #7b2d26ff;
 #--oxford-blue: #0c1b33ff;
