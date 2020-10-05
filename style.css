@@ -20,7 +20,7 @@ ul.topnav li a {
   text-decoration: none;
 }
 
-ul.topnav li a:hover:not(.active) {background-color: #111;}
+ul.topnav li a:hover:not(.active) {background-color: #868784ff;}
 
 ul.topnav li a.active {background-color: #0c1b33ff;}
 
@@ -163,7 +163,7 @@ ul.topnav li.right {float: right;}
   
   background: rgb(0, 0, 0);
   background: rgba(0, 0, 0, 0.5); /* Black see-through */
-  color: #f1f1f1;
+  color: #7b2d26ff;
   
   transition: .5s ease;
   opacity:0;
@@ -243,3 +243,10 @@ body {
 }
 .underr{
   color: #FFFFFF;
+#
+#Pallete:
+#--falu-red: #7b2d26ff;
+#--oxford-blue: #0c1b33ff;
+#--black-chocolate: #131001ff;
+#--forest-green-traditional: #1e441eff;
+-#-battleship-grey: #868784ff;
