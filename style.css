@@ -284,6 +284,13 @@ row {
     max-width: 100%;
   }
 }
+.icon {
+  background: url('http://s.mobileread.com/i/icons/icon7.gif');
+  height: 16px;
+  width: 16px;
+  display: block;
+  /* Other styles here */
+}
    #Pallete:
 #--falu-red: #7b2d26ff;
 #--oxford-blue: #0c1b33ff;
