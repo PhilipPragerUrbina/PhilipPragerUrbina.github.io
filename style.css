@@ -229,10 +229,12 @@ ul.topnav li.right {float: right;}
   transition-duration: 0.4s;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: flex;
   font-size: 16px;
-  width:100%;
+  width:1000px;
   border-radius: 25px;
+  margin: auto;
+  justify-content: center;
 }
 .button:hover {
   background-color: #868784ff; /* Green */
@@ -250,6 +252,7 @@ body {
 }
 .underr{
   color: #FFFFFF;
+  text-align: center;
 row {
   display: flex;
   flex-wrap: wrap;
