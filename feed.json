@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PhilipPragerUrbina",
+    "description": "",
+    "home_page_url": "https://PhilipPragerUrbina.github.io",
+    "feed_url": "https://PhilipPragerUrbina.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Philip Prager Urbina"
+    },
+    "items": [
+        {
+            "id": "https://PhilipPragerUrbina.github.io/test-test/",
+            "url": "https://PhilipPragerUrbina.github.io/test-test/",
+            "title": "Test Test",
+            "summary": "Test?",
+            "content_html": "\n  <p>\n    Test?\n  </p>",
+            "image": "https://PhilipPragerUrbina.github.io/media/posts/1/HobbyTown_USA_Oshkosh_interior_under_construction_2002_The_Backrooms.jpg",
+            "author": {
+                "name": "Philip Prager Urbina"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-19T20:13:24+02:00",
+            "date_modified": "2024-10-19T20:13:24+02:00"
+        }
+    ]
+}
